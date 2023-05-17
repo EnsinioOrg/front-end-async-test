@@ -34,7 +34,6 @@ Por fim, forneça uma documentação, por meio de um arquivo README.md, acerca d
 - Usabilidade impecável (botões devem ter cursor do tipo pointer, feedbacks visuais de hover, etc);
 - Requisitar dados (presentes no arquivo "db.json") de uma API fictícia utilizando [json-server](https://github.com/typicode/json-server);
 - Implementar a funcionalidade de internacionalização (todos os textos da aplicação devem possuir variações para os idiomas português, inglês e espanhol; a seleção do idioma, por parte do usuário, deve ser persistida);
-- Fazer uso de uma abordagem ou ferramenta para gerenciamento de estado compartilhado entre componentes (ex.: ContextAPI);
 - Hospedar a aplicação, permitindo o acesso através de uma URL (você pode usar plataformas gratuitas, como Vercel, Netlify, Heroku e afins);
 - Fornecer uma documentação, incluindo instruções para a execução da sua aplicação.
 
