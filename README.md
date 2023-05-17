@@ -12,8 +12,6 @@ Pixels importam pra gente. :blush:
 
 - https://www.figma.com/file/M0jy5rqNumytQKuKZYhgPS/Ensinio-Frontend-Challenge
 
-![Interface demo](interface-demo.png)
-
 ## :bulb: A proposta
 
 Você foi encarregado de dar os primeiros passos em uma aplicação que tende a escalar, sendo responsável por desenvolver a "seção hero" de uma tela institucional (interface demonstrada acima), utilizando HTML, CSS, JavaScript ou TypeScript (gostamos de TS, mas a escolha é sua) e React.js ou Next.js (gostamos de Next.js, mas a escolha é sua). :smiley:
